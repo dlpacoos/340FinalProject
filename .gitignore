@@ -1,0 +1,18 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Uncomment if using VS/VS Code
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# OS-specific
+.DS_Store
+Thumbs.db
